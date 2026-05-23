@@ -27,6 +27,7 @@ Fuente de lead → Landing page → Formulario / Quiz → CRM → Lead scoring �
 - `docs/17-qa-checklists.md`
 - `docs/18-roadmap-30-60-90.md`
 - `docs/19-backlog-tecnico.md`
+- `docs/20-sprint-01-implementacion.md`
 
 ## Documentos legado
 - `docs/legacy/09-dashboard-kpis.md`
