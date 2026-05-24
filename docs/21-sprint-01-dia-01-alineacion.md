@@ -44,9 +44,9 @@ Estado:
 
 ## 4. Decisiones pendientes de confirmación humana
 1. Presupuesto inicial de Meta Ads para la primera ventana de prueba.
-2. Definición de territorios prioritarios dentro de Estados Unidos (nacional vs. estados objetivo).
-3. Validación del mensaje principal final de la oferta y sus condiciones de elegibilidad.
-4. Definición exacta del SLA comercial esperado para contacto inicial de leads.
+2. Definición de territorios prioritarios dentro de Estados Unidos.
+3. Validación del mensaje principal final y condiciones de elegibilidad de la oferta.
+4. Definición exacta del SLA comercial para contacto inicial de leads.
 5. Confirmación de disponibilidad operativa del equipo para el flujo diario de leads.
 
 ## 5. Matriz RACI inicial
