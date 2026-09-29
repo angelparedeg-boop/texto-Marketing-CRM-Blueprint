@@ -4,16 +4,17 @@
 Diseñar un sistema comercial integral para captar, calificar, nutrir y convertir leads en el nicho de seguros de vida, IUL, protección familiar y planificación financiera para el mercado hispano en Estados Unidos.
 
 ## Flujo maestro
-Fuente de lead → Landing page → Formulario / Quiz → CRM → Lead scoring → Automatización → Cita → Presentación → Cierre → Referidos → Reactivación.
+Fuente de lead → Anuncio / campaña / video / avatar → Landing page → Formulario / Quiz → CRM → Lead scoring → Automatización → Cita → Presentación → Cierre → Referidos → Reactivación.
 
 ## Componentes
 1. **Fuentes de lead**: Meta Ads, referidos, prospección manual, orgánico.
 2. **Captura**: landing page, formulario corto, quiz de calificación.
 3. **CRM operativo**: GoHighLevel para ejecución comercial diaria.
 4. **Capa extendida y BI**: Airtable para control administrativo y reporting.
-5. **Automatización avanzada**: Make para orquestación de procesos complejos.
+5. **Automatización avanzada**: Make para orquestación de procesos complejos, fuera de alcance hasta Sprint 2.
 6. **Canales de seguimiento**: WhatsApp, SMS y email.
-7. **Documentación técnica**: GitHub + Markdown.
+7. **Registro auxiliar**: Google Sheets para revisión, importación/exportación y reportes simples; no sustituye GHL ni Airtable.
+8. **Documentación técnica**: GitHub + Markdown.
 
 ## Principios de arquitectura
 - Un solo origen operativo del estado comercial: CRM.

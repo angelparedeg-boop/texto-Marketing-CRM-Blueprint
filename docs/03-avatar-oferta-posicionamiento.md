@@ -1,7 +1,7 @@
 # 03 · Avatar, Oferta y Posicionamiento
 
 ## Avatar principal (fase 1)
-**Familias hispanas de 30 a 55 años en Estados Unidos** con interés en protección familiar y planificación financiera.
+**Familias hispanas de 30 a 65 años en Estados Unidos** con interés en protección familiar y planificación financiera.
 
 ## Segmentos secundarios (fase 2)
 | Segmento | Enfoque de mensaje | Prioridad |
@@ -23,7 +23,7 @@
 | Objeción | “Suena caro” |
 
 ## Oferta principal
-**Diagnóstico Financiero Familiar Gratuito** (20–30 minutos).
+**Diagnóstico Financiero Familiar Gratuito** (20–30 minutos como referencia interna; confirmar duración antes de publicarla).
 
 Incluye revisión de protección, ahorro, deudas, objetivos de retiro y opciones de planificación.
 
@@ -45,3 +45,12 @@ Servicio educativo y consultivo, orientado a claridad financiera y decisiones in
 ## Pendientes de validación humana
 - Validar avatar principal con datos reales de cierres.
 - Validar lenguaje final por revisión de cumplimiento.
+
+## Subsegmentos aprobados del público
+| Edad | Necesidad de comunicación |
+|---|---|
+| 30–40 | Familias jóvenes, protección inicial, hijos pequeños y estabilidad familiar temprana |
+| 41–55 | Consolidación familiar, protección, ahorro, educación de hijos y retiro |
+| 56–65 | Pre-retiro, legado, revisión de pólizas, protección patrimonial y planificación financiera |
+
+Estos segmentos orientan contenidos; no determinan elegibilidad ni sustituyen la evaluación individual. “Avatar del cliente” es el público objetivo; “avatar presentador” es el personaje audiovisual.

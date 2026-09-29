@@ -3,7 +3,8 @@
 ## Stack objetivo
 - **CRM operativo**: GoHighLevel.
 - **Base extendida / control**: Airtable.
-- **Automatización avanzada**: Make.
+- **Registro auxiliar**: Google Sheets para revisión rápida, importación/exportación y reportes simples; no sustituye GHL ni Airtable.
+- **Automatización avanzada**: Make, fuera de alcance hasta Sprint 2.
 - **Adquisición**: Meta Ads.
 - **Seguimiento**: WhatsApp, SMS y email.
 - **Documentación**: GitHub / Markdown.
@@ -18,7 +19,7 @@
 7. Consolidación de datos en Airtable para dashboard.
 
 ## Reglas técnicas
-- Evitar duplicados por teléfono y email.
+- Buscar coincidencias por teléfono/email antes de crear contacto; resolver coincidencias ambiguas según el documento 22 sin fusionar automáticamente.
 - Registrar `created_at`, `updated_at` y `last_interaction_at`.
 - Toda automatización debe tener condición de salida (respuesta, cita, opt-out, cierre).
 - Mantener nomenclatura consistente en campos, tags y campañas.

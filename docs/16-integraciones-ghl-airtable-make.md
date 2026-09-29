@@ -3,14 +3,16 @@
 ## Rol por herramienta
 - **GoHighLevel (GHL)**: CRM operativo, pipeline, comunicaciones y citas.
 - **Airtable**: capa de control, reporting, vistas administrativas y QA.
-- **Make**: orquestación avanzada, transformación de datos y flujos complejos.
+- **Google Sheets**: registro auxiliar, exportaciones parciales de respaldo, importación/exportación, revisión rápida y reportes simples. No sustituye GHL ni Airtable.
+- **Make**: orquestación avanzada, transformación de datos y flujos complejos; fuera de alcance hasta Sprint 2.
 
 ## Qué debe vivir en cada sistema
 | Dominio | Sistema principal |
 |---|---|
 | Estado comercial en tiempo real | GHL |
 | Reporting extendido y control | Airtable |
-| Integración avanzada y orquestación | Make |
+| Registro auxiliar y revisión rápida | Google Sheets |
+| Integración avanzada y orquestación (Sprint 2) | Make |
 
 ## Contrato de datos (mínimo)
 - lead_id
@@ -40,7 +42,8 @@
 ## Reglas de sincronización
 - GHL como fuente operativa primaria.
 - Sincronización incremental por timestamp.
-- Resolución de conflicto por `updated_at` más reciente.
+- Autoridad por campo: GHL gobierna estado comercial tras el corte; Airtable analiza y Sheets auxilia. Un timestamp reciente no permite sobrescribir la fuente autorizada.
+- Marcar discrepancias para conciliación; estos contratos no acreditan sincronización instalada.
 
 ## Errores y retries
 - Registro de error con contexto.
@@ -48,8 +51,9 @@
 - Cola de revisión manual para fallos persistentes.
 
 ## Prevención de duplicados
-- Llave por teléfono + email + source.
+- Identidad por lead_id; teléfono/email son candidatos de coincidencia, no identidad verificada. Una campaña diferente crea un evento, no otro contacto por defecto; ambigüedades requieren revisión.
 - Bloqueo de creación si lead_id ya existe.
 
 ## Pendientes de validación humana
-- Confirmar política final de resolución de conflictos.
+- Confirmar corte, permisos de acceso, retención y resolución manual de discrepancias.
+- Consultar el [contrato de datos](22-sprint-01-dia-02-datos-crm.md) antes de configurar; no se conectan APIs en esta entrega.

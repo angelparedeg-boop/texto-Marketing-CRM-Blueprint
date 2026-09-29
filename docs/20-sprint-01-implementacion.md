@@ -1,5 +1,7 @@
 # 20 · Sprint 01 · Implementación Operativa
 
+ > Consolidación 29/09/2026: las referencias a activar o configurar describen trabajo futuro. Esta entrega solo documenta. Se conserva el plan original de Días 1–5 y se añade el Día 6 como ampliación estratégica; su preparación va primero en captación.
+
 ## 1) Objetivo del Sprint 1
 Ejecutar la preparación operativa mínima viable para iniciar la implementación del sistema Marketing Digital + CRM con base en tareas **P0**, asegurando consistencia de datos, trazabilidad de KPIs y activación controlada del flujo de lead nuevo, sin integrar herramientas externas ni conectar APIs.
 
@@ -33,7 +35,7 @@ Este sprint se enfoca en estandarización operativa interna de CRM y modelo de m
 | Sincronización GHL-Airtable | Fuera de alcance | Depende de estructura final de campos y KPIs |
 | Automatizaciones externas | Fuera de alcance | Deben iniciar en Sprint 2 tras validación humana |
 
-## 5) Plan día por día (Día 1 a Día 5)
+## 5) Plan original de cinco días y ampliación estratégica
 | Día | Enfoque | Actividades clave | Entregable del día |
 |---|---|---|---|
 | Día 1 | Alineación operativa | Kickoff, validación de alcance, responsables nominales, revisión de backlog P0 | Acta de arranque + matriz de responsables |
@@ -41,6 +43,9 @@ Este sprint se enfoca en estandarización operativa interna de CRM y modelo de m
 | Día 3 | KPI operativo | Definir diccionario KPI (fórmula, fuente, frecuencia, owner, criterio de corte) | KPI Dictionary Operativo v1 |
 | Día 4 | Flujo lead nuevo | Diseñar/ajustar trigger, tarea inicial, mensaje base, SLA y alertas internas | Flujo Lead Nuevo en estado listo para validación |
 | Día 5 | QA y cierre sprint | Validación cruzada, checklist final, riesgos abiertos y plan de continuidad | Cierre Sprint 1 + plan de Sprint 2 |
+| Día 6 (ampliación) | Campañas, avatares, voces y registro de respuesta | Preparar guiones, locución, piezas, atribución y revisión de cumplimiento | Documento 26; recursos de producción pendientes |
+
+La ampliación no renumera los días originales ni elimina KPI y QA. Los equivalentes locales 23–25 usan otra distribución (pipeline, scoring, lead nuevo); se conservan como trabajo local separado, sin afirmar su presencia en main.
 
 ## 6) Responsable sugerido por tarea
 | Tarea | Responsable sugerido | Soporte |
@@ -60,9 +65,10 @@ Este sprint se enfoca en estandarización operativa interna de CRM y modelo de m
 | Activar flujo lead nuevo | Campos CRM estandarizados + pipeline validado + SLA acordado | Crítica |
 
 ### Secuencia recomendada
-1. Estandarizar campos CRM.
-2. Cerrar diccionario KPI operativo.
-3. Activar flujo lead nuevo.
+1. Preparar campaña/captación y trazabilidad audiovisual del Día 6.
+2. Estandarizar campos CRM.
+3. Cerrar diccionario KPI operativo.
+4. Preparar el flujo lead nuevo.
 
 ## 8) Checklist de configuración GoHighLevel
 - [ ] Crear/validar pipeline base con criterios de entrada/salida por etapa.
@@ -90,6 +96,9 @@ Este sprint se enfoca en estandarización operativa interna de CRM y modelo de m
   - [ ] SLA por vencer / SLA vencido.
 - [ ] Prototipar fórmulas KPI base sin automatizaciones externas.
 - [ ] Definir control de calidad de dato y revisión de duplicados.
+
+### Registro auxiliar Google Sheets (diseño)
+Áreas previstas: entradas originales, seguimiento por contacto, catálogo de campañas y control de exportaciones. Usar lead_id y submission_id; restringir acceso y no tratar una fila como identidad. Sheets no sustituye GHL ni Airtable. No crear ni conectar hojas en esta entrega.
 
 ## 10) Lista de validaciones humanas
 - [ ] Aprobación comercial de campos obligatorios CRM.
