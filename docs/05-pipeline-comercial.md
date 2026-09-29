@@ -34,7 +34,7 @@ Pipeline orientado a visibilidad de conversión desde lead nuevo hasta venta cer
 
 ## Configuración técnica
 - Campo obligatorio `next_action_at` en etapas activas.
-- Cambio automático a `no_show` cuando no hay asistencia registrada.
+- Asistencia ausente permanece desconocida; `no_show` requiere evidencia de no asistencia. Confirmación y asistencia se registran separadas de la etapa, según el contrato del Día 2.
 - Bloqueo de cierre perdido sin `disposition_reason`.
 
 ## Pendientes de validación humana

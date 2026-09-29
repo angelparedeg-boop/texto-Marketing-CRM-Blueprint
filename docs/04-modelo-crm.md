@@ -8,7 +8,8 @@
 ## Entidades principales
 
 ## 1) Contacto (Lead)
-### Campos obligatorios (operación)
+### Campos de enriquecimiento progresivo
+La captación mínima exige nombre, estado, canal y teléfono **o** email correspondiente, además de evidencia de solicitud. El [contrato del Día 2](22-sprint-01-dia-02-datos-crm.md) define obligatoriedad por entidad; no se exige todo el catálogo en la landing.
 - Nombre completo
 - Teléfono (E.164)
 - Email
@@ -38,7 +39,7 @@
 | Campo | Tipo | Regla |
 |---|---|---|
 | lead_id | Texto/UUID | Único, no editable |
-| phone_e164 | Texto | Obligatorio, normalizado |
+| phone_e164 | Texto | Condicional al canal; E.164 cuando sea posible |
 | source | Lista | Catálogo cerrado |
 | lead_score | Número | 0–100 |
 | next_action_at | Fecha/hora | Obligatorio si etapa activa |
@@ -64,7 +65,7 @@
 1. No crear oportunidad sin lead_id válido.
 2. No marcar perdido sin motivo de pérdida.
 3. No mantener más de 48h una oportunidad sin próxima acción.
-4. Toda cita requiere fecha/hora y confirmación.
+4. Toda cita requiere fecha/hora y zona; guardar confirmación como estado separado, sin suponer asistencia.
 
 ## Pendientes de validación humana
 - Definir lista final de motivos de pérdida.

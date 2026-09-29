@@ -29,6 +29,7 @@ Priorizar leads por intención, capacidad y urgencia para mejorar tasa de citas 
 
 ## Configuración técnica
 - Guardar `score_version`.
+- Limitar resultado a 0–100; cada regla cuenta una vez y condiciones opuestas no se aplican juntas. Desconocidos no son negativos; sin información pertinente usar null/sin_datos. Es prioridad operativa provisional, no probabilidad validada ni elegibilidad; véase el contrato del Día 2.
 - Guardar `score_updated_at`.
 - No sobrescribir score manualmente sin nota de auditoría.
 

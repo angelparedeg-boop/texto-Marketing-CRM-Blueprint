@@ -1,10 +1,10 @@
 # 09 · Funnel Principal
 
 ## Estrategia
-Funnel único fase 1 para familias hispanas 30–55, orientado a diagnóstico financiero y conversión a cita.
+Funnel único fase 1 para familias hispanas 30–65, orientado a diagnóstico financiero y conversión a cita.
 
 ## Estructura
-Anuncio → Landing page → Formulario / Quiz → Thank you page → Calendario → CRM → Automatización → Cita → Presentación → Cierre.
+Anuncio → Landing page → Formulario / Quiz → Registro durable de solicitud → Thank you page → Calendario opcional → Seguimiento CRM → Automatización → Cita → Presentación → Cierre.
 
 ## Landing page (operación)
 1. Encabezado claro.
@@ -20,7 +20,7 @@ Anuncio → Landing page → Formulario / Quiz → Thank you page → Calendario
 ## Configuración técnica sugerida
 | Componente | Requisito |
 |---|---|
-| Formulario | Nombre, teléfono, email, consentimiento |
+| Formulario | Nombre, estado, canal preferido y teléfono o email correspondiente; evidencia de solicitud por canal/finalidad |
 | Quiz | Objetivo, situación actual, urgencia, canal preferido |
 | Thank you page | Botón de agenda + instrucciones |
 | Calendario | franjas por asesor y zona horaria |
