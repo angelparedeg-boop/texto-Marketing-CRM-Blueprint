@@ -16,11 +16,11 @@ platform: meta
 status: listo_para_produccion
 ```
 
-El status reproduce la metadata solicitada; **no acredita recursos completos, render generado ni autorización de publicación**. Estado operativo: documentación preparada; asset aprobado pendiente de materializar/subir y revisión humana de producción pendiente.
+El status reproduce la metadata solicitada; **no acredita recursos completos, render generado ni autorización de publicación**. Estado operativo actualizado el 01/10/2026: documentación preparada y asset aprobado AV-HOMBRE-01 incorporado; siguen pendientes la revisión humana de producto/compliance, herramienta, voz, duración y primer render. No se ha generado video.
 
 ## Asset y pronunciación
 
-Imagen requerida: `asesor_financiero_en_oficina_calida.png` o `asesor_financiero_en_oficina_cálida.png`. No está en el repositorio. No sustituir por AV-FIC-01-R1 ni regenerar otro presentador. Identidad aprobada: AV-HOMBRE-01.
+El asset aprobado AV-HOMBRE-01 ya está incorporado como binario en [asesor_financiero_en_oficina_calida.png](../assets/avatars/AV-HOMBRE-01/asesor_financiero_en_oficina_calida.png). Ruta: `assets/avatars/AV-HOMBRE-01/asesor_financiero_en_oficina_calida.png`. Formato PNG verificado; dimensiones **1122 × 1402**; SHA-256: `fce7c8e9470c83c388f9debdbc644e71db3351e17357299bd7ac25101232c3b4`. Los bytes originales se conservaron en el commit `98379d2b4fa90b425a9464b370055d7534bae493`. No se sustituyó el avatar por AV-FIC-01-R1 ni se regeneró otro presentador. [Informe posterior del asset](informes/INFORME-CAP001-ASSET-AV-HOMBRE-01-2026-10-01.md).
 
 En pantalla y subtítulos: **IUL**. En voz: **aiuel**, unido y natural como una sola palabra. No pronunciar i-u-ele, I U L separado, yul ni iul leído literalmente en español. Esta regla específica de V01B es la instrucción vigente del usuario; la pauta anterior «ai-yu-el» del documento 26 no debe aplicarse a esta pieza. El documento 26 se conserva sin modificación.
 
@@ -205,6 +205,6 @@ Exportar en formato vertical 9:16, 1080x1920, apto para Facebook Reels, Instagra
 El guion interno contiene 221 palabras por conteo de términos separados por espacios. La duración de 60–75 segundos del prompt es una referencia suministrada, no una duración verificada. A 125–145 palabras por minuto, el texto requiere aproximadamente 91–106 segundos, antes de pausas. No acelerar de forma que pierda claridad ni recortar el texto sin aprobación; decidir duración tras lectura de prueba.
 
 
-Materializar el PNG aprobado; confirmar herramienta, voz, costo y derechos; revisar afirmaciones y nota legal contra producto/aseguradora y condiciones aplicables. Conservar la frase pública «beneficio de vida» exactamente como fue suministrada y pedir validación de su precisión antes de producir/publicar, sin corregirla por cuenta propia. Las afirmaciones financieras aquí archivadas no se certifican como revisadas por compliance.
+El PNG aprobado ya está incorporado y verificado. Siguen pendientes confirmar herramienta, voz, costo y derechos, validar duración y revisar afirmaciones y nota legal contra producto/aseguradora y condiciones aplicables; el primer render debe revisarse cuando se autorice su producción, antes de publicar. Conservar la frase pública «beneficio de vida» exactamente como fue suministrada y pedir validación de su precisión antes de producir/publicar, sin corregirla por cuenta propia. Las afirmaciones financieras aquí archivadas no se certifican como revisadas por compliance.
 
 No contratar herramientas, conectar APIs, generar prueba audiovisual ni publicar a partir de este documento. Se requiere una autorización posterior de producción. [Continuidad y pendientes](27-continuidad-captacion.md).
