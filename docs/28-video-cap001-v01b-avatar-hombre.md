@@ -36,7 +36,7 @@ Por eso quiero explicarle qué es un IUL.
 
 El IUL es un seguro de vida universal indexado.
 
-Imagínese que su póliza tiene dos partes.
+Su póliza puede cumplir dos funciones relacionadas.
 
 La primera puede formar valor en efectivo con potencial de crecimiento a largo plazo. Los intereses se acreditan según la estrategia de indexación de la póliza, vinculada a índices como el S&P 500, sin invertir directamente en el mercado ni reproducir su rendimiento. El resultado depende de cargos, topes y participación; no se garantiza acumulación.
 
@@ -68,7 +68,7 @@ Por eso quiero explicarle qué es un aiuel.
 
 El aiuel es un seguro de vida universal indexado.
 
-Imagínese que su póliza tiene dos partes.
+Su póliza puede cumplir dos funciones relacionadas.
 
 La primera puede formar valor en efectivo con potencial de crecimiento a largo plazo. Los intereses se acreditan según la estrategia de indexación de la póliza, vinculada a índices como el S&P 500, sin invertir directamente en el mercado ni reproducir su rendimiento. El resultado depende de cargos, topes y participación; no se garantiza acumulación.
 
@@ -94,7 +94,7 @@ Con gusto le explico, sin costo y en español, cómo podría funcionar en su cas
 - Muchas personas trabajan toda la vida… y el dinero no siempre alcanza
 - ¿Qué es un IUL?
 - Seguro de vida universal indexado
-- Una póliza / Dos funciones
+- Una póliza / Dos funciones relacionadas
 - Valor en efectivo
 - Protección familiar: beneficio por fallecimiento sujeto a condiciones*
 - Interés compuesto: intereses acreditados según la póliza, sin acumulación garantizada*
@@ -128,7 +128,7 @@ Texto: ¿Qué es un IUL?
 
 Escena 4:
 Dos funciones relacionadas: valor en efectivo y protección familiar mediante beneficio por fallecimiento sujeto a condiciones.
-Texto: Una póliza / Dos funciones.
+Texto: Una póliza / Dos funciones relacionadas.
 
 Escena 5:
 Intereses acreditados según la estrategia de indexación; cargos, topes y participación condicionan el resultado.
@@ -164,7 +164,7 @@ Usar como avatar principal la imagen proporcionada del asesor financiero masculi
 
 Usar únicamente AV-HOMBRE-01 desde `assets/avatars/AV-HOMBRE-01/asesor_financiero_en_oficina_calida.png`. Conservar identidad y proporciones al adaptar el PNG al formato vertical; encuadrar sin deformar ni sustituir al presentador y conservar el archivo original.
 
-Duración estimada real: 90–110 segundos si se conserva el guion completo, pendiente de validar con lectura de prueba del texto actualizado; ampliar la duración si lo exige una locución clara. Alternativa futura: versión recortada de 60–75 segundos únicamente con aprobación humana. No acelerar la locución para forzar duración ni recortar sin autorización.
+Duración vigente del guion completo: 281 palabras, aproximadamente 116–135 segundos antes de pausas a 125–145 palabras por minuto, pendiente de validación en lectura autorizada. Una versión corta de 60–75 segundos deberá prepararse como pieza separada futura, con aprobación humana, sin recortar automáticamente este guion ni eliminar condiciones esenciales. No acelerar la locución para forzar duración ni recortar sin autorización.
 
 Estilo visual:
 Oficina moderna y cálida.
@@ -216,7 +216,7 @@ Requisitos de una producción futura autorizada; este checklist no autoriza gene
 
 ## Dependencias de producción y validación humana
 
-El guion anterior contenía 221 palabras y requería aproximadamente 91–106 segundos a 125–145 palabras por minuto, antes de pausas. El guion vigente contiene **281 palabras**, contadas por términos separados por espacios: a ese mismo ritmo requiere aproximadamente **116–135 segundos**, antes de pausas. Duración estimada real solicitada: **90–110 segundos si se conserva el guion completo**; es una referencia pendiente de validar, no una duración confirmada del texto actualizado. Si no cabe con claridad, ampliar la duración y someterla a aprobación. Alternativa futura: preparar una versión recortada de **60–75 segundos solo con aprobación humana**. No acelerar la locución para forzar duración ni recortar sin autorización.
+El guion vigente contiene **281 palabras**, contadas por términos separados por espacios, y requiere aproximadamente **116–135 segundos antes de pausas** a 125–145 palabras por minuto, pendiente de validación en lectura autorizada. La duración final, incluidas las pausas, deberá someterse a aprobación humana. Una versión corta de **60–75 segundos** deberá prepararse como **pieza separada futura**, solo con aprobación humana, sin recortar automáticamente este guion ni eliminar condiciones esenciales. No acelerar la locución para forzar duración ni recortar sin autorización.
 
 
 El PNG aprobado ya está incorporado y verificado. Siguen pendientes confirmar herramienta, voz, costo y derechos, validar duración y revisar afirmaciones y nota legal contra producto/aseguradora, riders o coberturas incluidos y condiciones aplicables. La corrección autorizada distingue beneficio por fallecimiento y beneficios en vida; no equivale a aprobación de producto/compliance. Se requiere aprobación humana de producto, compliance, voz, herramienta y duración, además de autorización expresa antes del primer render; una vez autorizado y generado, debe revisarse antes de cualquier publicación. Las afirmaciones financieras aquí documentadas no se certifican como revisadas por compliance.
