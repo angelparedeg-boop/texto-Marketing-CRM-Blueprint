@@ -2,11 +2,15 @@
 
 Fecha de incorporación: 30/09/2026. Base auténtica: `f55c76cd6c99002321433b640473d6406b0bf8db`. Esta página sustituye para esta rama las propuestas locales de tracker; no importa sus historias Git ni afirma recuperar sus commits.
 
+Última actualización documental: 01/10/2026, para reflejar la incorporación del asset AV-HOMBRE-01 y la corrección de referencias históricas.
+
+El PR #7 es una revisión documental en borrador. Su aprobación o revisión no autoriza ejecución operativa, activación de formularios, modificación de Google, publicación de campañas, envío de comunicaciones ni generación de video.
+
 ## Estado que puede afirmarse
 
-Las evidencias y los dos informes son **históricos**. No acreditan el estado actual de Google, sus permisos, el destino, las filas ni los triggers. Esta entrega no abrió ni modificó Google.
+Las evidencias y los informes [INFORME-CAP001-FORMULARIO-2026-09-30.md](informes/INFORME-CAP001-FORMULARIO-2026-09-30.md) e [INFORME-RECORRIDO-FORMS-CAP001.md](informes/INFORME-RECORRIDO-FORMS-CAP001.md) son **históricos**. No acreditan el estado actual de Google, sus permisos, el destino, las filas ni los triggers. Esta entrega no abrió ni modificó Google.
 
-Según el informe posterior, hubo una prueba ficticia completa: formulario → envío desde la interfaz → Form Responses 1 → Entradas → Seguimiento. Se registró una respuesta nativa, una entrada y un contacto asociados. La ejecución automática de `alEnviarCAP001` figura como Completed. Reprocesar la misma respuesta conservó 1 entrada y 1 contacto sin alterar sus filas; no fue un segundo envío ni otra ejecución automática del trigger.
+Según el informe posterior INFORME-RECORRIDO-FORMS-CAP001.md, hubo una prueba ficticia completa: formulario → envío desde la interfaz → Form Responses 1 → Entradas → Seguimiento. Se registró una respuesta nativa, una entrada y un contacto asociados. La ejecución automática de `alEnviarCAP001` figura como Completed. Reprocesar la misma respuesta conservó 1 entrada y 1 contacto sin alterar sus filas; no fue un segundo envío ni otra ejecución automática del trigger.
 
 El formulario quedó históricamente **Published, acceso Specific people y recepción cerrada / Not accepting responses**. El informe registra un trigger instalado para ese ensayo. No se afirma que hoy conserve esos estados. Publicación técnica restringida no equivale a publicación de campaña.
 
@@ -16,7 +20,7 @@ No hay campañas publicadas como resultado del trabajo documentado ni de esta en
 
 | Etapa | Evidencia disponible | Interpretación |
 |---|---|---|
-| Piloto local | Confirmación, cita manual y vista móvil | Prueba ficticia local; no agenda ni CRM externo |
+| Piloto local | Confirmación, cita manual y vista móvil | Prueba ficticia local; incluye confirmación y registro manual de cita ficticia, pero no acredita reserva en agenda externa, conexión a CRM externo ni disponibilidad pública |
 | Autorización Google | Capturas de autorización pendiente | Antecedente superado según informe posterior; no bloqueo actual comprobado |
 | Verificación de destino | Primer informe y capturas de inserción/repetición | Escritura directa en Sheets; no prueba nativa de Forms ni trigger |
 | Antes del ensayo nativo | Trigger ausente y formulario sin recepción | Estado inicial del ensayo; no estado final |
@@ -24,6 +28,8 @@ No hay campañas publicadas como resultado del trabajo documentado ni de esta en
 | Cierre del ensayo | Recepción cerrada y acceso específico | Estado histórico final; debe comprobarse antes de cualquier operación |
 
 ## Verificación necesaria antes de operar
+
+El listado siguiente contiene requisitos futuros de verificación, no instrucciones autorizadas para ejecutarse durante esta revisión documental. Cualquier ejecución requiere autorización posterior con alcance definido.
 
 - [ ] Comprobar existencia del formulario, acceso restringido y recepción cerrada sin habilitarla automáticamente.
 - [ ] Confirmar el Sheet de destino, encabezados y filas ficticias preservadas.
