@@ -2,6 +2,14 @@
 
 Fecha: 01/10/2026. Rama: `codex/cap001-evidencias-video-v01b`.
 
+## Nota de actualización posterior · 01/10/2026
+
+El cuerpo original que sigue documenta la incorporación del asset y la corrección mínima realizada entonces. Las afirmaciones sobre guiones íntegros y «221 palabras» describen aquel momento, no la versión vigente. Las referencias a asset pendiente son únicamente antecedentes del 30/09; el PNG ya está incorporado y conserva ruta, dimensiones y hash registrados abajo.
+
+Después se corrigieron los documentos [27](../27-continuidad-captacion.md) y [28](../28-video-cap001-v01b-avatar-hombre.md). El documento 28 vigente quedó en el commit `94379dc4ced643e7b9e76607b5af21c6497621ea`: **281 palabras, aproximadamente 116–135 segundos antes de pausas**, pendiente de validación en lectura autorizada. Una versión corta de **60–75 segundos** deberá ser una pieza futura separada; no es la duración del guion completo ni autoriza recortarlo automáticamente o eliminar condiciones esenciales. Se distingue beneficio por fallecimiento y beneficios en vida, sujetos a coberturas y condiciones; «beneficio de vida» no es una frase aprobada. Se mantienen IUL visible, aiuel en voz y autorización expresa previa a producción/render/publicación.
+
+El PR conserva **21 archivos respecto de main** y sigue abierto, en borrador y sin fusionar. No se generó video/audio, no se modificó Google, no se incorporó código Google ni tests, no se publicaron campañas ni se enviaron comunicaciones. Esta nota no altera el asset, capturas o hashes, no aprueba compliance ni autoriza ejecución o fusión automática.
+
 ## Asset incorporado y verificado
 
 | Dato | Resultado |

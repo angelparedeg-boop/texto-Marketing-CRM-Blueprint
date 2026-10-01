@@ -2,6 +2,14 @@
 
 Fecha: 30/09/2026. Rama: `codex/cap001-evidencias-video-v01b`. Base remota auténtica: `f55c76cd6c99002321433b640473d6406b0bf8db`.
 
+## Nota de actualización posterior · 01/10/2026
+
+El cuerpo original que sigue describe la primera incorporación del 30/09, no el estado vigente del PR. Sus referencias a avatar no encontrado, asset pendiente, materialización de AV-HOMBRE-01 y status listo_para_produccion son antecedentes históricos superados. El PNG aprobado ya está incorporado como binario en `assets/avatars/AV-HOMBRE-01/asesor_financiero_en_oficina_calida.png`, commit `98379d2b4fa90b425a9464b370055d7534bae493`; su SHA-256 es `fce7c8e9470c83c388f9debdbc644e71db3351e17357299bd7ac25101232c3b4`.
+
+El PR contiene actualmente **21 archivos respecto de main**. Los documentos [27](../27-continuidad-captacion.md) y [28](../28-video-cap001-v01b-avatar-hombre.md) fueron corregidos; el documento 28 vigente quedó en el commit `94379dc4ced643e7b9e76607b5af21c6497621ea`. Su estado es `documentacion_preparada_pendiente_revision`; distingue beneficio por fallecimiento y beneficios en vida sujetos a riders/coberturas, elegibilidad y aprobación. La expresión «beneficio de vida» no se conserva como frase aprobada. Mantiene IUL visible y aiuel en voz. El guion completo tiene **281 palabras, aproximadamente 116–135 segundos antes de pausas**, pendiente de validación en lectura autorizada; la versión de **60–75 segundos** es una pieza futura separada, sin recorte automático ni eliminación de condiciones esenciales.
+
+Esta nota no revalida Google ni autoriza ejecución. No se generó video/audio, no se modificó Google ni se incorporó código Google o tests, no se publicaron campañas ni se enviaron comunicaciones. Capturas y hashes históricos permanecen intactos. El PR #7 continúa abierto, en borrador y sin fusionar; no debe fusionarse automáticamente ni marcarse como listo por esta actualización.
+
 ## Resumen ejecutivo
 
 Primera incorporación documental aprobada: dos informes históricos, 13 capturas originales, índice de hashes, continuidad corregida y paquete CAP-001-V01B. No se reincorporan los 14 documentos ya idénticos a main ni se mezclan historias de reconstrucciones locales. No se añade código ejecutable ni se accede a Google. No se genera video, campaña o comunicación.
