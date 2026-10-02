@@ -46,6 +46,15 @@ Sheets no sustituye GoHighLevel ni Airtable. Un piloto provisional no cambia la 
 - `docs/21-sprint-01-dia-01-alineacion.md`
 - [Día 2: Datos CRM y contrato de información](docs/22-sprint-01-dia-02-datos-crm.md)
 - [Día 6: Campañas, avatares, voces y registro de respuesta](docs/26-sprint-01-dia-06-campanas-avatares-voces-registro.md)
+- [29: Plan audiovisual, avatares y entrevista/podcast](docs/29-plan-audiovisual-avatares-y-podcast.md)
+- [30: SEO, presencia digital y redes sociales](docs/30-seo-presencia-digital-y-redes-sociales.md)
+- [31: Calendario editorial, contenido y marca](docs/31-calendario-contenido-y-marca.md)
+- [32: Arquitectura de crecimiento y métricas](docs/32-arquitectura-crecimiento-y-metricas.md)
+- [33: Servicios propuestos y mensajes base](docs/33-servicios-ofrecidos-y-mensajes-base.md)
+- [34: Playbook de publicaciones y campañas](docs/34-playbook-publicaciones-redes.md)
+- [35: Metricool y alternativas de planificación social](docs/35-herramientas-social-media-metricool-y-alternativas.md)
+- [36: Roadmap de la siguiente fase CAP-001](docs/36-roadmap-siguiente-fase-cap001.md)
+- [Informe de fase SEO, redes y avatares — 02/10/2026](docs/informes/INFORME-FASE-SEO-REDES-AVATARES-2026-10-02.md)
 
 Los documentos 23–25 solicitados no existen con esos nombres en `main`. Hay equivalentes locales con nombres abreviados, conservados en su ubicación original. No se renumeran ni se presentan como fusionados. El Día 6 amplía el plan original de cinco días; su preparación creativa se adelanta a captación.
 
