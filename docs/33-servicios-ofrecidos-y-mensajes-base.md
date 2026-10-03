@@ -6,6 +6,16 @@ Fecha local: 02/10/2026 · Borradores educativos para revisión; no catálogo co
 
 Validar con Miriam y producto/compliance qué servicios puede ofrecer, estados atendibles, licencias, aseguradoras y pólizas concretas. La lista solicitada es un catálogo **propuesto**, no confirmación de disponibilidad. Beneficios dependen del producto, condiciones y vigencia, cargos, límites, riders/coberturas, elegibilidad y aprobación cuando corresponda. No presentar seguros distintos como equivalentes ni recomendar una contratación individual desde estas plantillas.
 
+## Matriz pendiente de validación comercial
+
+Plantilla vacía para completar por revisión humana/producto/compliance, una fila por servicio y producto concreto. «Pendiente de validación» es un marcador, no una confirmación. No acredita catálogo, licencia, representación de aseguradoras ni disponibilidad territorial; no se habilita atención o publicación al completar un campo aislado.
+
+| Servicio | Producto específico | Aseguradora | Estado/territorio | Licencia/responsable autorizado | Riders/coberturas aplicables | Fuente contractual | Estado de validación | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| Pendiente de validación | Pendiente de validación | Pendiente de validación | Pendiente de validación | Pendiente de validación | Pendiente de validación | Pendiente de validación | Pendiente de revisión humana/compliance | Pendiente de validación |
+
+IUL puede tratarse como tema educativo propio por su importancia en la campaña, pero forma parte de las modalidades de vida permanente: seguro de vida universal indexado. No debe presentarse como categoría comercial totalmente separada si el catálogo final agrupa los productos de otra forma. Las filas educativas siguientes no equivalen a productos distintos acreditados.
+
 ## Biblioteca por servicio
 
 | Servicio | Mensaje educativo | Mensaje corto para redes | CTA prudente | Riesgo a revisar |
@@ -29,6 +39,27 @@ IUL se escribe así en pantalla; CAP-001-V01B conserva voz «aiuel» según refe
 ## Diagnóstico y aprobación
 
 CTA transversal propuesto: «Solicita información sobre el Diagnóstico Financiero Familiar Gratuito y sus próximos pasos». Antes de usarlo, confirmar qué incluye, quién lo presta, disponibilidad, duración y límites; no insinuar análisis fiscal/legal, licencia, cita reservada o asesoría que no estén confirmados.
+
+### Ficha pendiente del Diagnóstico Financiero Familiar Gratuito
+
+La denominación procede de la propuesta; la oferta no está definida ni aprobada por esta ficha. Todos los campos operativos requieren revisión humana/compliance. No recopilar datos, crear formularios o habilitar atención para completarla en esta fase.
+
+| Campo | Valor / estado pendiente |
+|---|---|
+| Nombre de la oferta | Diagnóstico Financiero Familiar Gratuito — denominación propuesta, pendiente de validación |
+| Objetivo | Pendiente de validación |
+| Qué incluye | Pendiente de validación |
+| Qué no incluye | Pendiente de validación |
+| Duración estimada | Pendiente de validación |
+| Quién lo realiza | Pendiente de validación |
+| Canales disponibles | Pendiente de validación |
+| Estados/territorios | Pendiente de validación |
+| Datos mínimos requeridos | Pendiente de validación; no se solicitan ni registran datos reales aquí |
+| Consentimiento requerido | Pendiente de validación por finalidad y canal |
+| Destino del formulario | Pendiente de validación; no se habilita un destino ni se presume vigente el formulario histórico |
+| Responsable de seguimiento | Pendiente de validación |
+| Límites legales/fiscales/financieros | Pendiente de validación; no presumir servicios profesionales o credenciales no confirmados |
+| Estado de aprobación | Pendiente de revisión humana/compliance; no aprobado |
 
 Ficha de aprobación por mensaje: producto/aseguradora, territorio, fuente contractual, versión, condición visible, responsable, fecha, CTA y destino. Miriam valida oferta; producto/compliance valida prestaciones; comercial valida atención; publicación requiere autorización aparte. No usar datos reales ni ejemplos identificables.
 

@@ -44,14 +44,14 @@ Los destinos son nombres de páginas **propuestas**, no enlaces públicos existe
 2. Miriam revisa identidad, permisos y oferta.
 3. Producto/compliance revisa coberturas, condiciones, territorio y CTA.
 4. Diseño/producción verifica derechos, pronunciación y legibilidad; producir solo con autorización explícita.
-5. Operaciones comprueba destino, responsable, capacidad y consentimiento en una fase autorizada distinta.
+5. Para piezas que dirigen a captación, formularios, citas o diagnóstico, operaciones comprueba landing/destino, recepción, responsable, capacidad y consentimiento en una fase autorizada distinta. En piezas puramente educativas sin captura de datos ni derivación a esos destinos, registrar esos controles como no aplicables; mantener revisión de contenido/compliance, derechos y autorización de publicación.
 6. Responsable humano aprueba publicación del paquete/versiones exactos; registrar aprobación. Cualquier cambio material vuelve a revisión.
 
 - [ ] Afirmación principal prudente; evitar «el mejor», «sin riesgo», «aprobación garantizada» o «beneficio automático» como promesas.
 - [ ] Condiciones esenciales visibles; nota legal no contradice el mensaje.
 - [ ] Imágenes, voces, logos, música y testimonios autorizados.
 - [ ] Solicitud no equivale a cita, aplicación, aprobación o emisión.
-- [ ] Destino real validado, aviso y consentimiento por finalidad/canal, baja y responsable preparados.
+- [ ] Si la pieza dirige a captación, formularios, citas o diagnóstico: landing/destino y recepción validados; aviso, consentimiento por finalidad/canal, baja y responsable preparados. Si es puramente educativa sin captura ni derivación, registrar no aplicable sin omitir revisión de contenido/compliance.
 - [ ] Identificadores y UTM sin datos personales; métricas y criterio de pausa definidos.
 - [ ] Publicación autorizada por separado; calendario no ejecuta por sí mismo.
 

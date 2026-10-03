@@ -26,7 +26,7 @@ Avatar es la identidad visual; presentador es quien explica; host conduce pregun
 
 ## Entrevista/podcast con Miriam: guion base para revisión
 
-| Bloque | Pregunta del host | Respuesta preparatoria de Miriam |
+| Bloque | Pregunta del host | Respuesta sugerida, pendiente de aprobación de Miriam |
 |---|---|---|
 | Presentación | ¿Quién eres y cuál es tu enfoque? | «Soy Miriam. Mi enfoque es ayudar a ordenar preguntas sobre protección familiar». Nombre público, cargo, licencias y territorio por confirmar; no inventar credenciales. |
 | Servicios | ¿Qué opciones pueden evaluarse? | «Podemos conversar sobre seguros de vida y planificación de protección y retiro, según necesidad y productos disponibles». Validar catálogo del documento 33. |

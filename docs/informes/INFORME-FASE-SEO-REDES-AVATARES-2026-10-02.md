@@ -22,7 +22,7 @@ PR #7 verificado abierto, en borrador y sin fusionar; head de referencia `c8a7e4
 | [36 · Roadmap](../36-roadmap-siguiente-fase-cap001.md) | Fases, responsables sugeridos y criterios de no avance |
 | Este informe | Procedencia, alcance, validaciones y pendientes |
 
-README actualizado únicamente con referencias a los nueve documentos nuevos; no se reestructura ni sustituye contenido. Documentos 01–26, legacy, capturas y assets permanecen intactos.
+README actualizado únicamente con referencias a los nueve documentos nuevos; no se reestructura ni sustituye contenido. Los documentos existentes dentro de la numeración 01–26, legacy, capturas y assets permanecen intactos; no se presupone que todos los números de esa serie existan.
 
 ## Validaciones de cierre
 
